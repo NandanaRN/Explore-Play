@@ -1,0 +1,6 @@
+{
+  "name": "Explore & Play · Bengaluru Prototype",
+  "description": "High-fidelity interactive UI/UX prototype for Explore & Play: Bengaluru Edition — linking all 30 screens from onboarding, discovery, squad meetups, itinerary maps, live quest missions to passport stamps and scrapbook memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
